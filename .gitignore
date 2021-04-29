@@ -9,3 +9,5 @@ MNLI/original/glue_data/MNLI/.DS_Store
 *.txt
 *.lock
 MNLI/.DS_Store
+*.iml
+MNLI/original/.DS_Store
