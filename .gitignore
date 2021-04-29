@@ -1,3 +1,11 @@
 *.pyc
 *.swp
 *.log
+*.xml
+*.tsv
+MNLI/original/glue_data/.DS_Store
+MNLI/original/glue_data/MNLI/.DS_Store
+*.jsonl
+*.txt
+*.lock
+MNLI/.DS_Store
